@@ -24,7 +24,7 @@
 
   * [*BSUIR afiliate "Minsk Radioengineering College"*](http://www.mrk-bsuir.by/en)  / Electrician for repair and maintenance of computer equipment
   
-  ### **Online**:
+  **Online**:
   
   * *Codeacademy* - **HTML, CSS basics.** [Achievements](https://www.codecademy.com/profiles/beta8976531203)
   * *RSSchool* - **HTML, CSS, JavaScript.**
@@ -33,4 +33,5 @@
 ## **Code examples**
 
 [*Click me*](https://github.com/AnhelinaVr/mockup)
-    
+
+***English level: A2***
